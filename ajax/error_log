@@ -1,0 +1,5 @@
+[11-May-2011 13:44:15] PHP Warning:  include_once(header.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/zincomie/public_html/ajax/ajax.php on line 2
+[11-May-2011 13:44:15] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/zincomie/public_html/ajax/ajax.php on line 2
+[11-May-2011 13:44:15] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'zincomie'@'localhost' (using password: NO) in /home/zincomie/public_html/ajax/ajax.php on line 3
+[11-May-2011 13:44:15] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/zincomie/public_html/ajax/ajax.php on line 3
+[11-May-2011 13:44:15] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/zincomie/public_html/ajax/ajax.php on line 5

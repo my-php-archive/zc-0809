@@ -1,0 +1,7 @@
+[02-May-2011 11:21:45] PHP Fatal error:  Call to undefined function  hacecuenta() in /home/zincomie/public_html/adm/filtro-pais.php on line 94
+[02-May-2011 11:25:54] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/zincomie/public_html/adm/filtro-pais.php on line 64
+[02-May-2011 11:26:01] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/zincomie/public_html/adm/filtro-pais.php on line 64
+[05-May-2011 14:38:52] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/zincomie/public_html/adm/contacto.php on line 48
+[05-May-2011 18:42:56] PHP Parse error:  syntax error, unexpected '=' in /home/zincomie/public_html/header.php on line 15
+[05-May-2011 18:42:58] PHP Parse error:  syntax error, unexpected '=' in /home/zincomie/public_html/header.php on line 15
+[13-May-2011 01:36:08] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/zincomie/public_html/adm/contacto.php on line 48

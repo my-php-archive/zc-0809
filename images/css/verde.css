@@ -1,0 +1,18 @@
+#maincontainer{background: url(/images/maincontainerbg-green.gif) repeat-x #88c200}
+.rtop,.rbott {background: url(/images/rtopbg-green.gif) no-repeat left top;}
+.subMenu{background:  url(/images/shadowSubMenu.png) #e1e2e1 repeat-x scroll left top;
+border-left:1px solid #e1e2e1;
+border-right:1px solid #e1e2e1;}
+.subMenu ul.tabsMenu li {
+background: #c1c2c3;}
+.subMenu ul.tabsMenu li:hover {
+background: #333333;}
+.subMenu ul.tabsMenu li:hover a {
+color: #FFF;}
+
+.menuTabs #tabbedPosts.here a {
+	  	background: url(../menu_left_corner_herev.gif) no-repeat top left;
+}
+.userInfoLogin {
+	background: url(../loginCornerv.gif) no-repeat top right;
+}

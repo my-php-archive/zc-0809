@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /admin
+Disallow: /agregar
+Disallow: /cuenta
+Disallow: /cpanel
+Disallow: /denuncia-publica
+Disallow: /denunciar-post
+Disallow: /favoritos
+Disallow: /images
+Disallow: /mensajes
+Disallow: /mod-history
+Disallow: /monitor
+Disallow: /password
+Disallow: /verify_email

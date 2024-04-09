@@ -1,0 +1,27 @@
+#maincontainer{background: url(/images/maincontainerbg-full.gif) repeat-x #004a95}
+.rtop,.rbott {background: url(/images/rtopbg-full.gif) no-repeat left top;}">Azul Special</option>
+
+<option value="#maincontainer{background: url(/images/maincontainerbg-lb.gif) repeat-x #4ad7ff}
+.rtop,.rbott {background: url(/images/rtopbg-lb.gif) no-repeat left top;}.menuTabs #tabbedPosts.here a {
+	  	background: url(../menu_left_corner_hereg.gif) no-repeat top left;
+}
+.userInfoLogin {
+	background: url(../loginCornerg.gif) no-repeat top right;">Cyan</option>
+
+
+
+
+<option value="#maincontainer{background: url(/images/maincontainerbg-sn.gif) repeat-x #282828}
+.rtop,.rbott {background: url(/images/rtopbg-sn.gif) no-repeat left top;}
+.subMenu{background:  url(/images/shadowSubMenu.png) #353535 repeat-x scroll left top;
+border-left:1px solid #4b4b4b;
+border-right:1px solid #4b4b4b;}
+.subMenu ul.tabsMenu li {
+background: #5a5a5a;}
+.subMenu ul.tabsMenu li:hover {
+background: #9c9c9c;}
+.menuTabs #tabbedPosts.here a {
+	  	background: url(../menu_left_corner_hereg.gif) no-repeat top left;
+}
+.userInfoLogin {
+	background: url(../loginCornerg.gif) no-repeat top right;

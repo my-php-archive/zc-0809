@@ -1,0 +1,61 @@
+[02-May-2011 05:17:32] PHP Parse error:  syntax error, unexpected '<' in /home/zincomie/public_html/comunidades/tema.php on line 97
+[02-May-2011 05:17:44] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/zincomie/public_html/comunidades/tema.php on line 90
+[02-May-2011 05:17:44] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/zincomie/public_html/comunidades/tema.php on line 90
+[02-May-2011 05:18:40] PHP Parse error:  syntax error, unexpected '<' in /home/zincomie/public_html/comunidades/tema.php on line 86
+[02-May-2011 05:19:12] PHP Parse error:  syntax error, unexpected T_STRING in /home/zincomie/public_html/comunidades/tema.php on line 93
+[02-May-2011 05:19:13] PHP Parse error:  syntax error, unexpected T_STRING in /home/zincomie/public_html/comunidades/tema.php on line 93
+[02-May-2011 05:19:53] PHP Parse error:  syntax error, unexpected T_STRING in /home/zincomie/public_html/comunidades/tema.php on line 93
+[02-May-2011 05:19:54] PHP Parse error:  syntax error, unexpected T_STRING in /home/zincomie/public_html/comunidades/tema.php on line 93
+[02-May-2011 05:49:33] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/zincomie/public_html/comunidades/index.php on line 765
+[02-May-2011 05:49:34] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/zincomie/public_html/comunidades/index.php on line 765
+[02-May-2011 06:43:43] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/zincomie/public_html/comunidades/tema.php on line 109
+[02-May-2011 06:55:13] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/zincomie/public_html/comunidades/index.php on line 891
+[02-May-2011 12:20:50] PHP Parse error:  syntax error, unexpected '/' in /home/zincomie/public_html/comunidades/tema.php on line 185
+[02-May-2011 12:21:00] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/zincomie/public_html/comunidades/tema.php on line 185
+[02-May-2011 12:21:00] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/zincomie/public_html/comunidades/tema.php on line 185
+[02-May-2011 12:21:07] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/zincomie/public_html/comunidades/tema.php on line 185
+[02-May-2011 12:27:57] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/zincomie/public_html/comunidades/tema.php on line 185
+[02-May-2011 12:27:57] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/zincomie/public_html/comunidades/tema.php on line 185
+[02-May-2011 14:52:02] PHP Warning:  Invalid argument supplied for foreach() in /home/zincomie/public_html/comunidades/demenu.php on line 58
+[02-May-2011 18:22:07] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/zincomie/public_html/includes/configuracion.php on line 16
+[02-May-2011 18:22:07] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/zincomie/public_html/includes/configuracion.php on line 17
+[02-May-2011 18:22:07] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/zincomie/public_html/includes/configuracion.php:16) in /home/zincomie/public_html/session.php on line 1
+[02-May-2011 18:22:07] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/zincomie/public_html/includes/configuracion.php:16) in /home/zincomie/public_html/session.php on line 1
+[02-May-2011 18:22:07] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/zincomie/public_html/includes/class_db_mysql.php on line 24
+[04-May-2011 06:21:54] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/zincomie/public_html/comunidades/index.php on line 109
+[04-May-2011 06:21:54] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/zincomie/public_html/comunidades/index.php on line 113
+[04-May-2011 06:21:54] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/zincomie/public_html/comunidades/index.php on line 175
+[04-May-2011 10:04:08] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/zincomie/public_html/comunidades/index.php on line 109
+[04-May-2011 10:04:08] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/zincomie/public_html/comunidades/index.php on line 113
+[04-May-2011 10:04:08] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/zincomie/public_html/comunidades/index.php on line 175
+[04-May-2011 16:09:14] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/zincomie/public_html/comunidades/index.php on line 109
+[04-May-2011 16:09:14] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/zincomie/public_html/comunidades/index.php on line 113
+[04-May-2011 16:09:14] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/zincomie/public_html/comunidades/index.php on line 175
+[04-May-2011 19:39:43] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/zincomie/public_html/comunidades/index.php on line 109
+[04-May-2011 19:39:43] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/zincomie/public_html/comunidades/index.php on line 113
+[04-May-2011 19:39:43] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/zincomie/public_html/comunidades/index.php on line 175
+[04-May-2011 20:47:10] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: open(/tmp/sess_e20ebc42bda583db709118f20eb23db1, O_RDWR) failed: No space left on device (28) in /home/zincomie/public_html/session.php on line 1
+[04-May-2011 20:47:10] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/zincomie/public_html/session.php:1) in /home/zincomie/public_html/session.php on line 1
+[04-May-2011 20:47:10] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/zincomie/public_html/session.php:1) in /home/zincomie/public_html/session.php on line 1
+[04-May-2011 20:47:10] PHP Warning:  Unknown: open(/tmp/sess_e20ebc42bda583db709118f20eb23db1, O_RDWR) failed: No space left on device (28) in Unknown on line 0
+[04-May-2011 20:47:10] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[04-May-2011 20:57:09] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: open(/tmp/sess_03b1e56a745ca3153ff6ba3385da24b1, O_RDWR) failed: No space left on device (28) in /home/zincomie/public_html/session.php on line 1
+[04-May-2011 20:57:09] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/zincomie/public_html/session.php:1) in /home/zincomie/public_html/session.php on line 1
+[04-May-2011 20:57:09] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/zincomie/public_html/session.php:1) in /home/zincomie/public_html/session.php on line 1
+[04-May-2011 20:57:09] PHP Warning:  Unknown: open(/tmp/sess_03b1e56a745ca3153ff6ba3385da24b1, O_RDWR) failed: No space left on device (28) in Unknown on line 0
+[04-May-2011 20:57:09] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[04-May-2011 20:57:52] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: open(/tmp/sess_c5c1508fb1569ff48a415e20ea3f25ca, O_RDWR) failed: No space left on device (28) in /home/zincomie/public_html/session.php on line 1
+[04-May-2011 20:57:52] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/zincomie/public_html/session.php:1) in /home/zincomie/public_html/session.php on line 1
+[04-May-2011 20:57:52] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/zincomie/public_html/session.php:1) in /home/zincomie/public_html/session.php on line 1
+[04-May-2011 20:57:52] PHP Warning:  Unknown: open(/tmp/sess_c5c1508fb1569ff48a415e20ea3f25ca, O_RDWR) failed: No space left on device (28) in Unknown on line 0
+[04-May-2011 20:57:52] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[04-May-2011 21:30:23] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/zincomie/public_html/comunidades/index.php on line 109
+[04-May-2011 21:30:23] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/zincomie/public_html/comunidades/index.php on line 113
+[04-May-2011 21:30:23] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/zincomie/public_html/comunidades/index.php on line 175
+[05-May-2011 18:00:01] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/zincomie/public_html/comunidades/menu.php on line 34
+[05-May-2011 18:00:01] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/zincomie/public_html/comunidades/tema.php on line 234
+[13-May-2011 05:37:28] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'zincomie'@'localhost' (using password: YES) in /home/zincomie/public_html/includes/configuracion.php on line 16
+[13-May-2011 05:37:28] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/zincomie/public_html/includes/configuracion.php on line 17
+[13-May-2011 05:37:28] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/zincomie/public_html/includes/configuracion.php:16) in /home/zincomie/public_html/session.php on line 1
+[13-May-2011 05:37:28] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/zincomie/public_html/includes/configuracion.php:16) in /home/zincomie/public_html/session.php on line 1
+[13-May-2011 05:37:28] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'zincomie'@'localhost' (using password: YES) in /home/zincomie/public_html/includes/class_db_mysql.php on line 24

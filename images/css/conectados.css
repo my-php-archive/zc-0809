@@ -1,0 +1,173 @@
+/*
+CONECTADOS ZINCOMIENZO
+*/
+/* HOME */
+
+.wMod{
+    background: url("images/bg_clim_h.gif") repeat-x scroll left bottom #F5F5F5;
+    border: 1px solid #CCC;
+    -moz-border-radius: 5px;
+    border-radius:5px;
+    color: #000000;
+    font-size: 12px;
+    font-weight: bold;
+    margin-bottom: 12px;
+    padding: 6px;
+    position: relative;
+}
+.wMod-h {
+    background-position: left center;
+    background-repeat: no-repeat;
+    padding: 2px;
+    padding-left: 20px;
+    margin-bottom: 5px;
+    border-bottom: 1px dashed #CCCCCC;
+    font-weight: bold;
+    color:#000;
+    text-shadow:0 1px 0 #CCCCCC;
+}
+.wMod-data {
+    padding-top: 5px;
+    position: relative;
+}
+.wMod-f{
+    border-top: 1px solid #CCCCCC;
+    margin-top: 6px;
+    padding: 4px 3px 3px;
+    text-align: center;
+}
+/* TScript Box */
+.tsBox {
+    background:#f3f3f3;
+}
+.tsBox .head, .tsBox .foot{
+    padding:8px
+}
+.tsBox .block{
+    -moz-border-radius: 3px 3px 3px 3px;
+    background:#999999;
+    color: #FFFFFF;
+    padding: 5px 10px;
+    position: relative;
+}
+.tsBox .block input[type=radio], .tsBox .block input[type=checkbox]{
+    position:absolute;
+    top:8px
+}
+.tsBox .block label{
+    padding-left: 20px;
+}
+/*// MENU */
+#tabbedhome a span{
+    display:block;
+    width: 14px;
+    background: url(images/home.png) no-repeat center center;
+}
+#tabbedhome.here a span{
+    background-image: url(images/home_here.png);
+}
+/*BoxMail*/
+#boxMail {
+    padding:0;
+    margin:5px 0 0;
+}
+#boxMail li {
+    line-height: normal;
+}
+#boxMail li a {
+    display:block;
+    overflow:hidden;    
+    white-space:nowrap;
+    text-decoration: none;
+    padding:2px 4px;
+}
+#boxMail img {
+    display:block;
+    margin-right:5px;
+    float:left;
+    height:32px;
+    width:32px;
+}
+#boxMail .content {
+    display:block; 
+    width:auto;
+    color:#808080;
+    font-weight:normal;
+    font-size:11px;
+    vertical-align:top;
+}
+#boxMail .autor {
+    color:#3B5998;
+    font-weight:bold;
+    padding-top:2px;
+    white-space:normal;
+}
+#boxMail .preview {
+    overflow:hidden;
+    white-space:nowrap;
+}
+#boxMail .subject {
+    color:#333333;
+    font-weight:bold;
+}
+#boxMail .time {
+    color:#9D9D9D;
+    font-size:9px;
+}
+
+/*// Users Online */
+.ol_item{
+    width: 210px;
+    float: left;
+    margin: 1em 18px;
+}
+.ol_item b{
+    font-size:12px;
+}
+.ol_item img{
+    float:left;
+}
+.ol_item span{
+    float:right;
+    width: 100px;
+    display: block;
+    margin-bottom: 5px;
+}
+.ol_item .icon{
+    background-position: left center;
+    background-repeat: no-repeat;
+    width: 80px!important;
+    padding-left: 20px;
+}
+.ol_icons img{
+    float:left;
+    margin-right: 5px;
+}
+.ol_item .male{
+    background-image: url(images/male.png);
+}
+.ol_item .female{
+    background-image: url(images/female.png);
+}
+.ol_item .perfil {
+    background-image: url(/images/perfil.png);
+}
+.ol_item .msg {
+    background-image: url(/images/oldMsg.png);
+}
+.paginador {
+    border-top:1px dashed #AAA;
+    margin: 10px;
+}
+.paginador div {
+    display:block;
+    margin: 5px 0; 
+    width: 110px;
+}
+.paginador div a {
+    background: none repeat scroll 0 0 #383838;
+    border-radius: 3px 3px 3px 3px;
+    color: #FFFFFF!important;
+    font-weight: bold;
+    padding: 5px 10px;
+}

@@ -1,0 +1,26 @@
+#maincontainer{background: url(/images/maincontainerbg-red.gif) repeat-x #880000}
+.rtop,.rbott {background: url(/images/rtopbg-red.gif) no-repeat left top;}
+.subMenu{background:  url(/images/shadowSubMenu.png) #641028 repeat-x scroll left top;
+border-left:1px solid #560f18;
+border-right:1px solid #560f18;}
+.subMenu ul.tabsMenu li {
+background: #a12045;}
+.subMenu ul.tabsMenu li:hover {
+background: #c02e41;}
+.new-search.posts .search-body {
+background-color:#880000;
+}
+.new-search .bar-options ul li.posts-tab.selected a {
+	background: #a43d3d;
+	border-bottom: 2px solid #a43d3d!important;
+}
+	.menuTabs #tabbedPosts.here a {
+	  	background: url(../menu_left_corner_herep.gif) no-repeat top left;
+}
+.userInfoLogin {
+	background: url(../p-loginCorner.gif) no-repeat top right;
+}
+
+.anonimo .identificarme {
+	background: url(../p-anonCorner.gif) no-repeat top right;
+}

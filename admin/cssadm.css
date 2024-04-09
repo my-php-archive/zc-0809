@@ -1,0 +1,220 @@
+/*
+Ja, envidiosos de zinfinal.... que petes que son, tan pete que ya ni me aparezco en el foro... jaja putos
+Downpija, zinlimite, postmierda,taringaz,zinfinaly ??? esas son una pija... ZINCOMIENZO RULEZZZ
+Podran copiarnos pero jamas alcanzarnos... OWNEDDD
+
+*/
+
+/****** PESTANAS ******/
+
+.menu-tabs {
+	background: #E1DFD2;
+	padding: 20px 20px 0 10px ;
+}
+
+.menu-tabs li {
+	float: left;
+	margin-right: 6px;
+}
+
+.menu-tabs li a {
+	display: block;
+	padding: 10px 15px;
+	background: #A0A0A0;
+	font-size: 14px;
+	font-weight: bold;
+	text-shadow:0 1px 0 #CECECE;
+	color: #000000!important;
+-moz-border-radius-topleft:10px;
+-moz-border-radius-topright:10px;
+}
+
+.menu-tabs li a:hover {
+	background: #868686;
+	color: #000!important;
+	text-decoration:none;
+-moz-border-radius-topleft:10px;
+-moz-border-radius-topright:10px;
+}
+
+.menu-tabs li.selected a {
+	display: block;
+	padding: 10px 15px;
+	background: #FFFFFF;
+	font-size: 14px;
+	font-weight: bold;
+	color: #000000!important;
+-moz-border-radius-topleft:10px;
+-moz-border-radius-topright:10px;
+}
+
+.menu-tabs li.selected a:hover {
+	background: #FFFFFF;
+	color: #000000!important;
+-moz-border-radius-topleft:10px;
+-moz-border-radius-topright:10px;
+}
+
+/* new clearfix */
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+	}
+* html .clearfix             { zoom: 1; } /* IE6 */
+*:first-child+html .clearfix { zoom: 1; } /* IE7 */
+
+
+/****** BOXES ******/
+.boxy {
+	background: #FFF;
+	border: 1px solid #CCC;
+	-moz-box-shadow: 0 0 5px #CCC;
+	-webkit-box-shadow: 0 0 5px #CCC
+}
+.boxy a {
+	color: #0f0fb4;
+	font-weight: bold;
+}
+.boxy a.selected {
+	background-color:#0F0FB4;
+	color:#FFFFFF;
+	display:block;
+
+	margin:3px 0;
+	padding:3px;
+}
+.boxy-title {
+	background: #d9d9d9 url('/images/bg-title-boxy.gif') repeat-x top left;
+	padding: 10px;
+	border-bottom: #bdbdbd 1px solid;
+	position: relative;
+}
+.boxy-title h3 {
+	margin: 0;
+	text-shadow: #f4f4f4  0 1px 0;
+	font-size:13px;
+}
+
+.boxy-title span.icon-noti {
+	background-image:url('/images/sprite-notification.png');
+	display:block;
+	float:right;
+	height:16px;
+	position:absolute;
+	right:9px;
+	top:8px;
+	width:16px;
+}
+
+.boxy-content {
+	padding: 12px;
+}
+.boxy select {
+	width: 125px;
+}
+.boxy h4 {
+	color: #FF6600;
+	margin: 0 0 5px 0;
+	font-size: 14px;
+}
+.boxy hr {
+	border-top: dashed 1px #CCC;
+	background: #FFF;
+	margin: 10px 0;
+}
+.xtralarge {
+	width: 938px;
+	margin: 0 5px 10px 0px;
+	float: left;
+}
+.xtralarge ol {
+	padding-left:30px;
+	margin:0;
+	list-style-image:none;
+	list-style-position:outside!important;
+	list-style-type:decimal;
+	position:relative;
+}
+
+.xtralarge .categoriaPost, .xtralarge .categoriaUsuario, .xtralarge .categoriaCom {
+	font-size: 12px;
+	list-style-image:none;
+	list-style-position:outside!important;
+	list-style-type:decimal;	
+	font-weight: bold;
+	margin-bottom: 3px;
+	display:list-item;
+	position:relative;
+	border:none;
+	height:16px
+}
+
+.xtralarge .categoriaCom {
+	padding: 3px;
+}
+
+.xtralarge .categoriaPost {
+	margin-bottom: 0;
+	_list-style:none
+}
+
+.xtralarge .categoriaPost:hover {
+	background-color:none!important;
+}
+
+
+
+.xtralarge .categoriaPost a, .xtralarge .categoriaUsuario a, .xtralarge .categoriaCom a {
+	font-size: 12px;
+	font-weight: bold;
+	width:250px;
+	height:16px;
+	overflow:hidden;
+	margin:0;
+	display:block;
+	padding:0
+	height:auto!important;
+	position:absolute;
+	float:none;
+}
+
+.xtralarge .categoriaPost span, .xtralarge .categoriaUsuario span, .xtralarge .categoriaCom span {
+	font-weight: normal;
+	color: #999;
+	position:absolute;
+	right:0;
+	top:0
+}
+
+.xtralarge .categoriaUsuario  {
+	padding:3px;
+}
+
+ .xtralarge .categoriaUsuario a {
+ 	left: 25px;
+ 	top:3px;
+ 	height:16px;
+ }
+
+.xtralarge .categoriaCom {
+	height:13px;
+}
+
+.xtralarge .categoriaCom .titletema {
+	margin:0
+}
+.xtralarge .categoriaUsuario img {
+	vertica-align:middle;
+	padding:1px;
+	border:1px solid #EEE;
+	display:block;
+	margin-right:5px;
+	position:absolute;	
+}
+
+.boxy-title .popular-n { background-position:0 -240px; }
+.boxy-title .votada-n { background-position:0 -261px; }

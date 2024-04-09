@@ -1,0 +1,4 @@
+[02-May-2011 20:16:59] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/zincomie/public_html/fotos/index.php on line 190
+[02-May-2011 20:17:38] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/zincomie/public_html/fotos/index.php on line 192
+[04-May-2011 02:49:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/zincomie/public_html/fotos/index.php on line 196
+[04-May-2011 06:11:58] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/zincomie/public_html/fotos/index.php on line 196
